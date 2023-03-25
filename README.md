@@ -1,4 +1,4 @@
-### Description
+## Pomodoro Timer App
 
 - A Pomodoro (countdown) timer application created with Flutter.
 - It uses the `Timer` class to handle play, pause and reset interactivity.
