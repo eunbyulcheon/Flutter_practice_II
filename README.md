@@ -1,16 +1,14 @@
-# pomodoro_app
+### Description
 
-A new Flutter project.
+- A Pomodoro (countdown) timer application created with Flutter.
+- It uses the `Timer` class to handle play, pause and reset interactivity.
+- Things learned: 
+  - [x] Handling `StatefulWidgets`. 
+  - [x] `StatefulWidges` lifecycle. 
+  - [x] Utilizing `theme` to specify default styles, and access them through the `context`. 
+  - [x] `Flexible` and `Expanded` widgets. 
 
-## Getting Started
+<br> 
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/75746836/227718018-8ca99a9b-a8c3-48be-b1ad-39eec2977527.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
